@@ -1,10 +1,7 @@
 Currículo Online - Matheus Oliveira Souza
-Preview do Projeto
-(Adicione uma imagem ou gif do seu projeto aqui)
-
-Este é um currículo online responsivo e interativo, desenvolvido com HTML, CSS e JavaScript. O projeto foi criado para destacar minhas habilidades, experiências e formação de forma moderna e acessível.
 
 🚀 Recursos
+
 Design Responsivo: Adapta-se a qualquer dispositivo (desktop, tablet, mobile).
 
 Animações Modernas: Efeitos de hover, fade-in e digitação para melhorar a experiência do usuário.
@@ -45,6 +42,7 @@ Altere as cores e estilos no arquivo styles.css.
 
 Adicione ou remova seções conforme necessário.
 
+
 ✨ Animações Implementadas
 Efeito de Digitação no Título: Animação simulando digitação no nome.
 
@@ -60,11 +58,12 @@ Gradiente Animado no Header: Fundo com gradiente animado para um visual moderno.
 Copy
 curriculo-online/
 │
-├── index.html          # Estrutura principal do site
-├── styles.css          # Estilos e animações CSS
-├── script.js           # Interatividade com JavaScript
-├── README.md           # Documentação do projeto
-└── assets/             # Pasta para imagens, ícones, etc.
+index.html          # Estrutura principal do site
+styles.css          # Estilos e animações CSS
+script.js           # Interatividade com JavaScript
+README.md           # Documentação do projeto
+assets/             # Pasta para imagens, ícones, etc.
+
 🌐 Acesso Online
 O projeto está hospedado no GitHub Pages. Acesse:
 https://m1thaus.github.io/curriculo-online
@@ -76,9 +75,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 Contribuições são bem-vindas! Siga os passos abaixo:
 
 Faça um fork do projeto.
-
 Crie uma branch para sua feature:
-
 bash
 Copy
 git checkout -b minha-feature
